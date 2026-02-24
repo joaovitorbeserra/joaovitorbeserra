@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+### Stacks
+[![My Skills](https://skillicons.dev/icons?i=python,ts,nodejs,postgres,aws,terraform,docker,git)](https://skillicons.dev)
 <!--
 **joaovitorbeserra/joaovitorbeserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
