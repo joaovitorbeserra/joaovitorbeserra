@@ -1,6 +1,14 @@
 ## Hi there 👋
 ### Stacks
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,python,postgres,aws,docker,git)](https://skillicons.dev)
+
+Backend Developer focused on Node.js and TypeScript, passionate about building structured, scalable, and business-oriented solutions.
+
+With a background in data and system integration, I specialize in designing REST APIs, modeling relational databases, and implementing clean backend architectures. I enjoy turning complex business rules into reliable and maintainable code.
+
+Currently deepening my knowledge in software architecture, testing, and scalable backend systems.
+
+Reach me at: joaovitorbeserra.dev@outlook.com
 <!--
 **joaovitorbeserra/joaovitorbeserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
