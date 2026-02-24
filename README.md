@@ -1,14 +1,16 @@
 ## Hi there 👋
+
+Desenvolvedor Backend com foco em Node.js e TypeScript, atuando na construção de APIs REST, modelagem de bancos relacionais e implementação de regras de negócio orientadas a contexto operacional.
+
+Possuo base sólida em dados e integração de sistemas, com experiência na estruturação de aplicações organizadas em camadas, validação de informações, tratamento de exceções e versionamento com Git.
+
+Atualmente concentrado no aprofundamento em arquitetura backend, testes automatizados e ambientes containerizados, visando aplicações escaláveis e de fácil manutenção.
+
+Contato: joaovitorbeserra.dev@outlook.com
+
 ### Stacks
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,python,postgres,aws,docker,git)](https://skillicons.dev)
 
-Backend Developer focused on Node.js and TypeScript, passionate about building structured, scalable, and business-oriented solutions.
-
-With a background in data and system integration, I specialize in designing REST APIs, modeling relational databases, and implementing clean backend architectures. I enjoy turning complex business rules into reliable and maintainable code.
-
-Currently deepening my knowledge in software architecture, testing, and scalable backend systems.
-
-Reach me at: joaovitorbeserra.dev@outlook.com
 <!--
 **joaovitorbeserra/joaovitorbeserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
