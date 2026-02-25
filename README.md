@@ -6,7 +6,7 @@ Atualmente concentrado no aprofundamento em arquitetura backend, testes automati
 
 Contato: joaovitorbeserra.dev@outlook.com
 
-### Stacks
+### Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,python,postgres,aws,docker,git)](https://skillicons.dev)
 
 <!--
