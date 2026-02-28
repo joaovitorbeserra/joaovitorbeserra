@@ -2,7 +2,7 @@ Desenvolvedor Backend com foco em Node.js e TypeScript, atuando na construção 
 
 Possuo base sólida em dados e integração de sistemas, com experiência na estruturação de aplicações organizadas em camadas, validação de informações, tratamento de exceções e versionamento com Git.
 
-Atualmente concentrado no aprofundamento em arquitetura backend, testes automatizados e ambientes containerizados, visando aplicações escaláveis e de fácil manutenção.
+Atualmente concentrado no aprofundamento em arquitetura backend, ambientes containerizados, visando aplicações escaláveis e de fácil manutenção.
 
 Contato: joaovitorbeserra.dev@outlook.com
 
